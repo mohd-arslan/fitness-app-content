@@ -1,0 +1,43 @@
+{
+    "lose_weight": {
+        "breakfast": "Oatmeal with berries and almonds",
+        "lunch": "Grilled chicken salad with plenty of greens and vinaigrette",
+        "dinner": "Baked cod with steamed broccoli and quinoa",
+        "snacks": [
+            "Apple slices with peanut butter",
+            "Greek yogurt"
+        ],
+        "totalCalories": 1600
+    },
+    "gain_muscle": {
+        "breakfast": "3 scrambled eggs with whole wheat toast and avocado",
+        "lunch": "Turkey breast wrap with cheese and veggies",
+        "dinner": "Sirloin steak with sweet potato and asparagus",
+        "snacks": [
+            "Protein shake",
+            "Cottage cheese with pineapple",
+            "Almonds"
+        ],
+        "totalCalories": 2800
+    },
+    "maintain": {
+        "breakfast": "Smoothie bowl with granola and fruits",
+        "lunch": "Quinoa bowl with chickpeas, cucumber, and feta",
+        "dinner": "Grilled salmon with brown rice and roasted vegetables",
+        "snacks": [
+            "Hummus with carrot sticks",
+            "Hard-boiled egg"
+        ],
+        "totalCalories": 2200
+    },
+    "improve_fitness": {
+        "breakfast": "Whole grain pancakes with banana and walnuts",
+        "lunch": "Tuna salad sandwich on multigrain bread",
+        "dinner": "Chicken stir-fry with mixed vegetables and brown rice",
+        "snacks": [
+            "Trail mix",
+            "Yogurt with honey"
+        ],
+        "totalCalories": 2400
+    }
+}
